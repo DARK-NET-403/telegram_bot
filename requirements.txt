@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+python-telegram-bot==20.7
+colorama
+pyfiglet
+lxml
+tqdm
